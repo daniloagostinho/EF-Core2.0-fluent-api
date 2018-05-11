@@ -1,0 +1,11 @@
+C:\Users\cedro_nds\source\repos\FluentApi\FluentApi\bin\Debug\netcoreapp2.0\FluentApi.deps.json
+C:\Users\cedro_nds\source\repos\FluentApi\FluentApi\bin\Debug\netcoreapp2.0\FluentApi.runtimeconfig.json
+C:\Users\cedro_nds\source\repos\FluentApi\FluentApi\bin\Debug\netcoreapp2.0\FluentApi.runtimeconfig.dev.json
+C:\Users\cedro_nds\source\repos\FluentApi\FluentApi\bin\Debug\netcoreapp2.0\FluentApi.dll
+C:\Users\cedro_nds\source\repos\FluentApi\FluentApi\obj\Debug\netcoreapp2.0\FluentApi.csprojResolveAssemblyReference.cache
+C:\Users\cedro_nds\source\repos\FluentApi\FluentApi\obj\Debug\netcoreapp2.0\FluentApi.csproj.CoreCompileInputs.cache
+C:\Users\cedro_nds\source\repos\FluentApi\FluentApi\obj\Debug\netcoreapp2.0\FluentApi.AssemblyInfoInputs.cache
+C:\Users\cedro_nds\source\repos\FluentApi\FluentApi\obj\Debug\netcoreapp2.0\FluentApi.AssemblyInfo.cs
+C:\Users\cedro_nds\source\repos\FluentApi\FluentApi\bin\Debug\netcoreapp2.0\FluentApi.pdb
+C:\Users\cedro_nds\source\repos\FluentApi\FluentApi\obj\Debug\netcoreapp2.0\FluentApi.dll
+C:\Users\cedro_nds\source\repos\FluentApi\FluentApi\obj\Debug\netcoreapp2.0\FluentApi.pdb
